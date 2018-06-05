@@ -1,5 +1,10 @@
 # AWS RDS MSSQL Import/Export using S3
 
+Requisites
+==========
+    yum install freetds-devel
+    go get github.com/minus5/gofreetds
+
 Compiling
 =========
 $ go build tool.go
