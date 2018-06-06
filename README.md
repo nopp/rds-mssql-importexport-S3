@@ -22,3 +22,8 @@ Configure config.json file with correct informations:
 Running (Obs:. config.json need to stay in the same root path of tool)
 =======
 $ ./tool
+
+    tool status dbName    
+    tool export dbName s3Name backupName
+    tool import dbName s3Name restoreName
+    
