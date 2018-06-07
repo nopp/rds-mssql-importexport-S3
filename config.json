@@ -1,5 +1,5 @@
 {
-	"host": rdsMSSQLhost,
-	"user": rdsMSSQLuser,
-	"password": rdsMSSQLpassword
+	"host": "rdsMSSQLhost",
+	"user": "rdsMSSQLuser",
+	"password": "rdsMSSQLpassword"
 }
